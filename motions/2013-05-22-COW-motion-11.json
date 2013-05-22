@@ -1,0 +1,41 @@
+{
+	"date": "2013-05-22",
+	"meeting":"Committee of the Whole",
+	"motion number":"11",
+	"measure": {
+		"measureType":"Bill",
+		"measureNumber":"20-199",
+		"shortTitle":"Fiscal Year 2014 Budget Support Act of 2013"
+	},
+	"motion":{
+		"movant":"Mary Cheh",
+		"motionDesc":"Amend",
+		"requiredThreshold":7
+	},
+	"description":"Clean Teams to BID",
+	"discussion": {
+		"1":"Mary Cheh",
+		"2":"Vincent Orange",
+		"3":"Phil Mendelson",
+		"4":"Yvette Alexander",
+		"5":"Kenyan McDuffie"
+	},
+	"voteData":{
+		"friendly":false,
+		"roll call":false,
+		"Yvette Alexander":"",
+		"Marion Barry":"",
+		"Anita Bonds":"",
+		"Muriel Bowser":"",
+		"David Catania":"",
+		"Mary Cheh":"",
+		"Jack Evans":"",
+		"Jim Graham":"",
+		"David Grosso":"",
+		"Kenyan McDuffie":"",
+		"Phil Mendelson":"",
+		"Vincent Orange":"",
+		"Tommy Wells":""
+		},
+	"passed":"withdrawn"
+}

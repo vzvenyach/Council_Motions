@@ -1,0 +1,46 @@
+{
+	"date": "2013-05-22",
+	"meeting":"Committee of the Whole",
+	"motion number":"8",
+	"measure": {
+		"measureType":"Bill",
+		"measureNumber":"20-199",
+		"shortTitle":"Fiscal Year 2014 Budget Support Act of 2013"
+	},
+	"motion":{
+		"movant":"Phil Mendelson",
+		"motionDesc":"Main",
+		"requiredThreshold":7
+	},
+	"description":"Main Motion on the Fiscal Year 2014 Budget Support Act",
+	"discussion": {
+		"1":"Phil Mendelson",
+		"2":"Kenyan McDuffie",
+		"3":"Mary Cheh",
+		"4":"David Grosso",
+		"5":"Yvette Alexander",
+		"6":"Marion Barry",
+		"7":"Mary Cheh",
+		"8":"David Catania",
+		"9":"Jim Graham",
+		"10":"Muriel Bowser"s
+	},
+	"voteData":{
+		"friendly":false,
+		"roll call":false,
+		"Yvette Alexander":"Y",
+		"Marion Barry":"Y",
+		"Anita Bonds":"Y",
+		"Muriel Bowser":"Y",
+		"David Catania":"Y",
+		"Mary Cheh":"Y",
+		"Jack Evans":"Y",
+		"Jim Graham":"Y",
+		"David Grosso":"Y",
+		"Kenyan McDuffie":"Y",
+		"Phil Mendelson":"Y",
+		"Vincent Orange":"Y",
+		"Tommy Wells":"Y"
+		},
+	"passed":"true"
+}

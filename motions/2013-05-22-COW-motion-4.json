@@ -1,0 +1,40 @@
+{
+	"date": "2013-05-22",
+	"meeting":"Committee of the Whole",
+	"motion number":"4",
+	"measure": {
+		"measureType":"Bill",
+		"measureNumber":"20-198",
+		"shortTitle":"Fiscal Year 2014 Budget Request Act of 2013"
+	},
+	"motion":{
+		"movant":"Mary Cheh",
+		"motionDesc":"Amend",
+		"requiredThreshold":7
+	},
+	"description":"Taxicab Drop Fee",
+	"discussion": {
+		"1":"Mary Cheh",
+		"2":"Muriel Bowser",
+		"3":"Vincent Orange",
+		"4":"Marion Barry"
+	},
+	"voteData":{
+		"friendly":false,
+		"roll call":false,
+		"Yvette Alexander":"Y",
+		"Marion Barry":"Y",
+		"Anita Bonds":"Y",
+		"Muriel Bowser":"Y",
+		"David Catania":"Y",
+		"Mary Cheh":"Y",
+		"Jack Evans":"Y",
+		"Jim Graham":"Y",
+		"David Grosso":"Y",
+		"Kenyan McDuffie":"Y",
+		"Phil Mendelson":"Y",
+		"Vincent Orange":"N",
+		"Tommy Wells":"Y"
+		},
+	"passed":"true"
+}

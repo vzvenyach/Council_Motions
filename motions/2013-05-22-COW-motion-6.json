@@ -1,0 +1,38 @@
+{
+	"date": "2013-05-22",
+	"meeting":"Committee of the Whole",
+	"motion number":"6",
+	"measure": {
+		"measureType":"Bill",
+		"measureNumber":"20-198",
+		"shortTitle":"Fiscal Year 2014 Budget Request Act of 2013"
+	},
+	"motion":{
+		"movant":"Marion Barry",
+		"motionDesc":"Amend",
+		"requiredThreshold":7
+	},
+	"description":"Anacostia High School Teacher Funding",
+	"discussion": {
+		"1":"Marion Barry",
+		"2":"David Catania"
+	},
+	"voteData":{
+		"friendly":true,
+		"roll call":false,
+		"Yvette Alexander":"",
+		"Marion Barry":"",
+		"Anita Bonds":"",
+		"Muriel Bowser":"",
+		"David Catania":"",
+		"Mary Cheh":"",
+		"Jack Evans":"",
+		"Jim Graham":"",
+		"David Grosso":"",
+		"Kenyan McDuffie":"",
+		"Phil Mendelson":"",
+		"Vincent Orange":"",
+		"Tommy Wells":""
+		},
+	"passed":"true"
+}

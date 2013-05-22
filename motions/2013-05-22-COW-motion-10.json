@@ -1,0 +1,37 @@
+{
+	"date": "2013-05-22",
+	"meeting":"Committee of the Whole",
+	"motion number":"10",
+	"measure": {
+		"measureType":"Bill",
+		"measureNumber":"20-199",
+		"shortTitle":"Fiscal Year 2014 Budget Support Act of 2013"
+	},
+	"motion":{
+		"movant":"Kenyan McDuffie",
+		"motionDesc":"Amend",
+		"requiredThreshold":7
+	},
+	"description":"Great Streets Amendment",
+	"discussion": {
+		"1":"Kenyan McDuffie"
+	},
+	"voteData":{
+		"friendly":true,
+		"roll call":false,
+		"Yvette Alexander":"",
+		"Marion Barry":"",
+		"Anita Bonds":"",
+		"Muriel Bowser":"",
+		"David Catania":"",
+		"Mary Cheh":"",
+		"Jack Evans":"",
+		"Jim Graham":"",
+		"David Grosso":"",
+		"Kenyan McDuffie":"",
+		"Phil Mendelson":"",
+		"Vincent Orange":"",
+		"Tommy Wells":""
+		},
+	"passed":"true"
+}
