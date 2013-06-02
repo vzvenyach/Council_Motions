@@ -1,24 +1,24 @@
 {
 	"date": "2013-05-22",
 	"meeting":"Committee of the Whole",
-	"motion number":"3",
+	"motion_number":"3",
 	"measure": {
-		"measureType":"Bill",
-		"measureNumber":"20-198",
-		"shortTitle":"Fiscal Year 2014 Budget Request Act of 2013"
+		"measure_type":"Bill",
+		"measure_number":"20-198",
+		"short_title":"Fiscal Year 2014 Budget Request Act of 2013"
 	},
 	"motion":{
 		"movant":"Tommy Wells",
-		"motionDesc":"Amend",
-		"requiredThreshold":7
+		"motion_description":"Amend",
+		"required_threshold":7
 	},
 	"description":"Department of Forensic Science shift",
 	"discussion": {
 		"1":"Tommy Wells"
 	},
-	"voteData":{
+	"vote_data":{
 		"friendly":true,
-		"roll call":false,
+		"roll_call":false,
 		"Yvette Alexander":"",
 		"Marion Barry":"",
 		"Anita Bonds":"",

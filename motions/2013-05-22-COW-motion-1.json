@@ -1,16 +1,16 @@
 {
 	"date": "2013-05-22",
 	"meeting":"Committee of the Whole",
-	"motion number":"1",
+	"motion_number":"1",
 	"measure": {
-		"measureType":"Bill",
-		"measureNumber":"20-198",
-		"shortTitle":"Fiscal Year 2014 Budget Request Act of 2013"
+		"measure_type":"Bill",
+		"measure_number":"20-198",
+		"short_title":"Fiscal Year 2014 Budget Request Act of 2013"
 	},
 	"motion":{
 		"movant":"Phil Mendelson",
-		"motionDesc":"Main",
-		"requiredThreshold":7
+		"motion_description":"Main",
+		"required_threshold":7
 	},
 	"description":"Main Motion on the Fiscal Year 2014 Budget Request Act of 2013",
 	"discussion": {
@@ -28,9 +28,9 @@
 		"12":"Jim Graham",
 		"13":"Muriel Bowser"
 	},
-	"voteData":{
+	"vote_data":{
 		"friendly":false,
-		"roll call":false,
+		"roll_call":false,
 		"Yvette Alexander":"Y",
 		"Marion Barry":"Y",
 		"Anita Bonds":"Y",

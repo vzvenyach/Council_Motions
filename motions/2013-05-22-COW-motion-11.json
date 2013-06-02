@@ -1,16 +1,16 @@
 {
 	"date": "2013-05-22",
 	"meeting":"Committee of the Whole",
-	"motion number":"11",
+	"motion_number":"11",
 	"measure": {
-		"measureType":"Bill",
-		"measureNumber":"20-199",
-		"shortTitle":"Fiscal Year 2014 Budget Support Act of 2013"
+		"measure_type":"Bill",
+		"measure_number":"20-199",
+		"short_title":"Fiscal Year 2014 Budget Support Act of 2013"
 	},
 	"motion":{
 		"movant":"Mary Cheh",
-		"motionDesc":"Amend",
-		"requiredThreshold":7
+		"motion_description":"Amend",
+		"required_threshold":7
 	},
 	"description":"Clean Teams to BID",
 	"discussion": {
@@ -20,9 +20,9 @@
 		"4":"Yvette Alexander",
 		"5":"Kenyan McDuffie"
 	},
-	"voteData":{
+	"vote_data":{
 		"friendly":false,
-		"roll call":false,
+		"roll_call":false,
 		"Yvette Alexander":"",
 		"Marion Barry":"",
 		"Anita Bonds":"",

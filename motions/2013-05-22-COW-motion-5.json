@@ -1,16 +1,16 @@
 {
 	"date": "2013-05-22",
 	"meeting":"Committee of the Whole",
-	"motion number":"5",
+	"motion_number":"5",
 	"measure": {
-		"measureType":"Bill",
-		"measureNumber":"20-198",
-		"shortTitle":"Fiscal Year 2014 Budget Request Act of 2013"
+		"measure_type":"Bill",
+		"measure_number":"20-198",
+		"short_title":"Fiscal Year 2014 Budget Request Act of 2013"
 	},
 	"motion":{
 		"movant":"Marion Barry",
-		"motionDesc":"Amend",
-		"requiredThreshold":7
+		"motion_description":"Amend",
+		"required_threshold":7
 	},
 	"description":"CIP transfer",
 	"discussion": {
@@ -18,9 +18,9 @@
 		"2":"Muriel Bowser",
 		"3":"Phil Mendelson"
 	},
-	"voteData":{
+	"vote_data":{
 		"friendly":true,
-		"roll call":false,
+		"roll_call":false,
 		"Yvette Alexander":"",
 		"Marion Barry":"",
 		"Anita Bonds":"",
