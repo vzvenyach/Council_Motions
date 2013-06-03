@@ -7,5 +7,7 @@ These are my personal notes of motions offered to measures considered by the Cou
 
 For an easy way to create motions, use the tool at http://exavolt.github.io/onde/
 
+A few usage notes: (1) I am not recording anything on the consent agenda; (2) I do not record temporaries unless they are separately considered; and (3) Amendments will be linked to motions in a separate file, not in the motions.
+
 Please let me know if you have any comments or suggestions for improvement.
 Thanks!
