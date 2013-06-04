@@ -1,0 +1,37 @@
+{
+  "date": "2013-06-04",
+  "meeting": "Legislative Meeting",
+  "motion_number": "29",
+  "measure": {
+    "measure_type": "Resolution",
+    "measure_number": "20-276",
+    "short_title": "Change Orders No. 001 through No. 003 to Contract No. DCAM-12-M-1031G-FM Approval and Payment Authorization Emergency Declaration Resolution of 2013"
+  },
+  "motion": {
+    "movant": "Vincent Orange",
+    "motion_description": "Table",
+    "required_threshold": 7
+  },
+  "description": "Motion to Table Change Orders No. 001 through No. 003 to Contract No. DCAM-12-M-1031G-FM Approval and Payment Authorization Emergency Declaration Resolution of 2013",
+  "discussion": [
+    "Vincent Orange"
+  ],
+  "vote_data": {
+    "friendly": false,
+    "roll_call": true,
+    "Yvette Alexander": "N",
+    "Marion Barry": "N",
+    "Anita Bonds": "Y",
+    "Muriel Bowser": "N",
+    "David Catania": "N",
+    "Mary Cheh": "N",
+    "Jack Evans": "N",
+    "Jim Graham": "N",
+    "David Grosso": "Y",
+    "Kenyan McDuffie": "N",
+    "Phil Mendelson": "N",
+    "Vincent Orange": "Y",
+    "Tommy Wells": "N"
+  },
+  "passed": "fails"
+}

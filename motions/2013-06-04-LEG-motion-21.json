@@ -1,0 +1,48 @@
+{
+  "date": "2013-06-04",
+  "meeting": "Legislative Meeting",
+  "motion_number": "21",
+  "measure": {
+    "measure_type": "Bill",
+    "short_title": "Better Prices, Better Quality, Better Choices for Health Coverage Emergency Amendment Act of 2013"
+  },
+  "motion": {
+    "movant": "David Catania",
+    "motion_description": "Amend",
+    "required_threshold": 7
+  },
+  "description": "Amend to provide for rate review",
+  "discussion": [
+    "David Catania",
+    "Yvette Alexander",
+    "Mary Cheh",
+    "Vincent Orange",
+    "David Catania",
+    "Muriel Bowser",
+    "Vincent Orange",
+    "Yvette Alexander",
+    "David Catania",
+    "Marion Barry",
+    "Anita Bonds",
+	"David Grosso",
+	"David Catania"
+  ],
+  "vote_data": {
+    "friendly": false,
+    "roll_call": true,
+    "Yvette Alexander": "N",
+    "Marion Barry": "N",
+    "Anita Bonds": "N",
+    "Muriel Bowser": "Y",
+    "David Catania": "Y",
+    "Mary Cheh": "Y",
+    "Jack Evans": "N",
+    "Jim Graham": "N",
+    "David Grosso": "N",
+    "Kenyan McDuffie": "Y",
+    "Phil Mendelson": "N",
+    "Vincent Orange": "N",
+    "Tommy Wells": "Y"
+  },
+  "passed": "false"
+}

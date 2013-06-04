@@ -1,0 +1,38 @@
+{
+  "date": "2013-06-04",
+  "meeting": "Legislative Meeting",
+  "motion_number": "23",
+  "measure": {
+    "measure_type": "Resolution",
+    "measure_number": "20-274",
+    "short_title": "Option Year One Modifications to Human Care Agreement No. DCJZ-2010-H-0025 Approval and Payment Authorization Emergency Declaration Resolution of 2013"
+  },
+  "motion": {
+    "movant": "Jim Graham",
+    "motion_description": "Postpone to a Time Certain",
+    "required_threshold": 9
+  },
+  "description": "Motion to Postpone to June 25 meeting",
+  "discussion": [
+    "Jim Graham",
+    "Tommy Wells"
+  ],
+  "vote_data": {
+    "friendly": false,
+    "roll_call": false,
+    "Yvette Alexander": "Y",
+    "Marion Barry": "Y",
+    "Anita Bonds": "Y",
+    "Muriel Bowser": "Y",
+    "David Catania": "Y",
+    "Mary Cheh": "Y",
+    "Jack Evans": "Y",
+    "Jim Graham": "Y",
+    "David Grosso": "Y",
+    "Kenyan McDuffie": "Y",
+    "Phil Mendelson": "Y",
+    "Vincent Orange": "Y",
+    "Tommy Wells": "Y"
+  },
+  "passed": "true"
+}

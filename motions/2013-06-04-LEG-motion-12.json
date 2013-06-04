@@ -1,0 +1,38 @@
+{
+  "date": "2013-06-04",
+  "meeting": "Legislative Meeting",
+  "motion_number": "12",
+  "measure": {
+    "measure_type": "Resolution",
+    "short_title": "YMCA Community Investment Initiative Real Property Tax Exemption Emergency Declaration Resolution of 2013"
+  },
+  "motion": {
+    "movant": "Jim Graham",
+    "motion_description": "Main",
+    "required_threshold": 9
+  },
+  "description": "YMCA Community Investment Initiative Real Property Tax Exemption Emergency Declaration Resolution of 2013",
+  "discussion": [
+    "Jim Graham",
+	"Phil Mendelson",
+	"Jack Evans"
+  ],
+  "vote_data": {
+    "friendly": false,
+    "roll_call": false,
+    "Yvette Alexander": "Y",
+    "Marion Barry": "Y",
+    "Anita Bonds": "Y",
+    "Muriel Bowser": "Y",
+    "David Catania": "Y",
+    "Mary Cheh": "Y",
+    "Jack Evans": "Y",
+    "Jim Graham": "Y",
+    "David Grosso": "Y",
+    "Kenyan McDuffie": "Y",
+    "Phil Mendelson": "Y",
+    "Vincent Orange": "Y",
+    "Tommy Wells": "Y"
+  },
+  "passed": "true"
+}

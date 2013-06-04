@@ -1,0 +1,39 @@
+{
+  "date": "2013-06-04",
+  "meeting": "Legislative Meeting",
+  "motion_number": "17",
+  "measure": {
+    "measure_type": "Bill",
+    "short_title": "Vending Regulation Emergency Amendment Act of 2013"
+  },
+  "motion": {
+    "movant": "Tommy Wells",
+    "motion_description": "Amend",
+    "required_threshold": 7
+  },
+  "description": "Amendment to provide that food truck operators are legal",
+  "discussion": [
+    "Tommy Wells",
+    "Vincent Orange",
+    "Mary Cheh",
+    "Phil Mendelson"
+  ],
+  "vote_data": {
+    "friendly": true,
+    "roll_call": false,
+    "Yvette Alexander": "Y",
+    "Marion Barry": "Y",
+    "Anita Bonds": "Y",
+    "Muriel Bowser": "Y",
+    "David Catania": "Y",
+    "Mary Cheh": "Y",
+    "Jack Evans": "Y",
+    "Jim Graham": "Y",
+    "David Grosso": "Y",
+    "Kenyan McDuffie": "Y",
+    "Phil Mendelson": "Y",
+    "Vincent Orange": "Y",
+    "Tommy Wells": "Y"
+  },
+  "passed": "true"
+}

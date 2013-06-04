@@ -1,0 +1,36 @@
+{
+  "date": "2013-06-04",
+  "meeting": "Legislative Meeting",
+  "motion_number": "22",
+  "measure": {
+    "measure_type": "Bill",
+    "short_title": "Better Prices, Better Quality, Better Choices for Health Coverage Emergency Amendment Act of 2013"
+  },
+  "motion": {
+    "movant": "Anita Bonds",
+    "motion_description": "Close Debate",
+    "required_threshold": 9
+  },
+  "description": "Motion to Close Debate on Catania Amendment",
+  "discussion": [
+    "Anita Bonds"
+  ],
+  "vote_data": {
+    "friendly": false,
+    "roll_call": false,
+    "Yvette Alexander": "Y",
+    "Marion Barry": "Y",
+    "Anita Bonds": "Y",
+    "Muriel Bowser": "Y",
+    "David Catania": "Y",
+    "Mary Cheh": "Y",
+    "Jack Evans": "Y",
+    "Jim Graham": "Y",
+    "David Grosso": "Y",
+    "Kenyan McDuffie": "Y",
+    "Phil Mendelson": "Y",
+    "Vincent Orange": "Y",
+    "Tommy Wells": "Y"
+  },
+  "passed": "true"
+}
