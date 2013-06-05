@@ -7,7 +7,7 @@ These are my personal notes of motions offered to measures considered by the Cou
 
 For an easy way to create motions, use the tool at http://exavolt.github.io/onde/
 
-For a neat example of how this can be used, check out www.dccode.org/motions/
+For a neat example of how this can be used, check out dccode.org/motions/
 
 A few usage notes: (1) I am not recording anything on the consent agenda; (2) I do not record temporaries unless they are separately considered; (3) the discussion order is not a perfect science; and (4) Amendments will be linked to motions in a separate file, not in the motions.
 
