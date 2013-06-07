@@ -3,15 +3,16 @@
   "meeting": "Legislative Meeting",
   "motion_number": "38",
   "measure": {
-    "measure_type": "Bill",
-    "short_title": "Justice Park Property Term Sheet Emergency Amendment Act of 2013"
+    "measure_type": "Resolution",
+	"measure_number": "20-320",
+    "short_title": "Justice Park Property Term Sheet Emergency Approval Resolution of 2013"
   },
   "motion": {
     "movant": "Muriel Bowser",
     "motion_description": "Main",
     "required_threshold": 7
   },
-  "description": "Main Motion on Justice Park Property Term Sheet Emergency Amendment Act of 2013",
+  "description": "Main Motion on Justice Park Property Term Sheet Emergency Approval Resolution of 2013",
   "discussion": [
     "Muriel Bowser"
   ],
