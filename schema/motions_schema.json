@@ -7,7 +7,8 @@
 		},
 		"meeting": {
 			"type":"string",
-			"required":true
+			"required":true,
+			"default":"Legislative Meeting"
 		},
 		"motion_number": {
 			"type":"string",
@@ -43,7 +44,8 @@
 				"motion_description": {
 					"type":"string",
 					"required":true,
-					"default":"Main"
+					"default":"Main",
+					"enum":["Main", "Amend", "Postpone to a Time Certain", "Postpone Indefinitely", "Close Debate", "Previous Question", "Table", "Waive 231(c)", "Take from Table", "Reconsider", "Recommit", "Discharge", "Adjourn", "Recess"]
 				},
 				"required_threshold": {
 					"type":"number",

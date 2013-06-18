@@ -1,0 +1,37 @@
+{
+  "date": "2013-06-18",
+  "meeting": "Legislative Meeting",
+  "motion_number": "2",
+  "measure": {
+    "measure_type": "Bill",
+    "measure_number": "20-199",
+    "short_title": "Fiscal Year 2014 Budget Support Act of 2013"
+  },
+  "motion": {
+    "movant": "Phil Mendelson",
+    "motion_description": "Main",
+    "required_threshold": 7
+  },
+  "description": "Main Motion on Fiscal Year 2014 Budget Support Act of 2013",
+  "discussion": [
+    "Phil Mendelson"
+  ],
+  "vote_data": {
+    "friendly": false,
+    "roll_call": false,
+    "Yvette Alexander": "",
+    "Marion Barry": "",
+    "Anita Bonds": "",
+    "Muriel Bowser": "",
+    "David Catania": "",
+    "Mary Cheh": "",
+    "Jack Evans": "",
+    "Jim Graham": "",
+    "David Grosso": "",
+    "Kenyan McDuffie": "",
+    "Phil Mendelson": "",
+    "Vincent Orange": "",
+    "Tommy Wells": ""
+  },
+  "passed": "postponed"
+}

@@ -1,21 +1,21 @@
 {
-  "date": "2013-06-04",
+  "date": "2013-06-18",
   "meeting": "Legislative Meeting",
-  "motion_number": "23",
+  "motion_number": "1",
   "measure": {
     "measure_type": "Resolution",
-    "measure_number": "20-274",
-    "short_title": "Option Year One Modifications to Human Care Agreement No. DCJZ-2010-H-0025 Approval and Payment Authorization Emergency Declaration Resolution of 2013"
+    "measure_number": "20-202",
+    "short_title": "KIPP DC Revenue Bonds Project Approval Resolution of 2013"
   },
   "motion": {
-    "movant": "Jim Graham",
-    "motion_description": "Postpone to a Time Certain",
+    "movant": "Jack Evans",
+    "motion_description": "Main",
     "required_threshold": 7
   },
-  "description": "Motion to Postpone to June 25 meeting",
+  "description": "Main Motion on KIPP DC Revenue Bonds Project Approval Resolution of 2013",
   "discussion": [
-    "Jim Graham",
-    "Tommy Wells"
+    "Jack Evans",
+	"Marion Barry"
   ],
   "vote_data": {
     "friendly": false,

@@ -1,0 +1,37 @@
+{
+  "date": "2013-06-18",
+  "meeting": "Legislative Meeting",
+  "motion_number": "19",
+  "measure": {
+    "measure_type": "Resolution",
+    "measure_number": "20-262",
+    "short_title": "Compensation Agreement between the District of Columbia Government and Compensation Units 1 and 2, FY 2013-2017 Emergency Declaration Resolution of 2013"
+  },
+  "motion": {
+    "movant": "Phil Mendelson",
+    "motion_description": "Main",
+    "required_threshold": 9
+  },
+  "description": "Main Motion on Compensation Agreement between the District of Columbia Government and Compensation Units 1 and 2, FY 2013-2017 Emergency Declaration Resolution of 2013",
+  "discussion": [
+    "Phil Mendelson"
+  ],
+  "vote_data": {
+    "friendly": false,
+    "roll_call": false,
+    "Yvette Alexander": "Y",
+    "Marion Barry": "Y",
+    "Anita Bonds": "Y",
+    "Muriel Bowser": "Y",
+    "David Catania": "Y",
+    "Mary Cheh": "Y",
+    "Jack Evans": "Y",
+    "Jim Graham": "Y",
+    "David Grosso": "Y",
+    "Kenyan McDuffie": "Y",
+    "Phil Mendelson": "Y",
+    "Vincent Orange": "Y",
+    "Tommy Wells": "Y"
+  },
+  "passed": "true"
+}
