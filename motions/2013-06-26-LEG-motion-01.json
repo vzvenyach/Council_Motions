@@ -1,0 +1,40 @@
+{
+  "date": "2013-06-26",
+  "meeting": "Legislative Meeting",
+  "motion_number": "1",
+  "measure": {
+    "measure_type": "Bill",
+    "measure_number": "20-142",
+    "short_title": "JaParker Deoni Jones Birth Certificate Equality Amendment Act of 2013"
+  },
+  "motion": {
+    "movant": "Yvette Alexander",
+    "motion_description": "Main",
+    "required_threshold": 7
+  },
+  "description": "Main Motion on JaParker Deoni Jones Birth Certificate Equality Amendment Act of 2013",
+  "discussion": [
+    "Yvette Alexander",
+    "David Catania",
+    "Marion Barry",
+    "Jim Graham"
+  ],
+  "vote_data": {
+    "friendly": false,
+    "roll_call": false,
+    "Yvette Alexander": "Y",
+    "Marion Barry": "Y",
+    "Anita Bonds": "Y",
+    "Muriel Bowser": "Y",
+    "David Catania": "Y",
+    "Mary Cheh": "Y",
+    "Jack Evans": "Y",
+    "Jim Graham": "Y",
+    "David Grosso": "Y",
+    "Kenyan McDuffie": "Y",
+    "Phil Mendelson": "Y",
+    "Vincent Orange": "Y",
+    "Tommy Wells": "Y"
+  },
+  "passed": "true"
+}

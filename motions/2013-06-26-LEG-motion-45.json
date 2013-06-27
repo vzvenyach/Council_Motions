@@ -1,0 +1,37 @@
+{
+  "date": "2013-06-26",
+  "meeting": "Legislative Meeting",
+  "motion_number": "45",
+  "measure": {
+    "measure_type": "Resolution",
+    "measure_number": "20-333",
+    "short_title": "Change Orders Nos. 001 through No. 006 to Contract No. GM-10-DPR-0308B-FM Approval and Payment Authorization Emergency Declaration Resolution of 2013"
+  },
+  "motion": {
+    "movant": "Kenyan McDuffie",
+    "motion_description": "Main",
+    "required_threshold": 7
+  },
+  "description": "Main Motion on Change Orders Nos. 001 through No. 006 to Contract No. GM-10-DPR-0308B-FM Approval and Payment Authorization Emergency Declaration Resolution of 2013",
+  "discussion": [
+    "Kenyan McDuffie"
+  ],
+  "vote_data": {
+    "friendly": false,
+    "roll_call": false,
+    "Yvette Alexander": "",
+    "Marion Barry": "",
+    "Anita Bonds": "",
+    "Muriel Bowser": "",
+    "David Catania": "",
+    "Mary Cheh": "",
+    "Jack Evans": "",
+    "Jim Graham": "",
+    "David Grosso": "",
+    "Kenyan McDuffie": "",
+    "Phil Mendelson": "",
+    "Vincent Orange": "",
+    "Tommy Wells": ""
+  },
+  "passed": "postponed"
+}

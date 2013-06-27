@@ -1,0 +1,39 @@
+{
+  "date": "2013-06-26",
+  "meeting": "Legislative Meeting",
+  "motion_number": "9",
+  "measure": {
+    "measure_type": "Bill",
+    "measure_number": "20-199",
+    "short_title": "Fiscal Year 2014 Budget Support Act of 2013"
+  },
+  "motion": {
+    "movant": "Jack Evans",
+    "motion_description": "Amend",
+    "required_threshold": 7
+  },
+  "description": "Evans Amendment re Library Materials",
+  "discussion": [
+    "Jack Evans",
+    "Marion Barry",
+    "David Catania"
+  ],
+  "vote_data": {
+    "friendly": false,
+    "roll_call": true,
+    "Yvette Alexander": "Y",
+    "Marion Barry": "N",
+    "Anita Bonds": "Y",
+    "Muriel Bowser": "Y",
+    "David Catania": "N",
+    "Mary Cheh": "Y",
+    "Jack Evans": "Y",
+    "Jim Graham": "Y",
+    "David Grosso": "Y",
+    "Kenyan McDuffie": "Y",
+    "Phil Mendelson": "Y",
+    "Vincent Orange": "Y",
+    "Tommy Wells": "Y"
+  },
+  "passed": "true"
+}

@@ -1,0 +1,50 @@
+{
+  "date": "2013-06-26",
+  "meeting": "Legislative Meeting",
+  "motion_number": "7",
+  "measure": {
+    "measure_type": "Bill",
+    "measure_number": "20-199",
+    "short_title": "Fiscal Year 2014 Budget Support Act of 2013"
+  },
+  "motion": {
+    "movant": "David Catania",
+    "motion_description": "Amend",
+    "required_threshold": 7
+  },
+  "description": "Catania Amendment to ANS for School Funding",
+  "discussion": [
+    "David Catania",
+    "Vincent Orange",
+    "Muriel Bowser",
+    "Mary Cheh",
+    "Marion Barry",
+    "Yvette Alexander",
+    "Jim Graham",
+    "David Grosso",
+    "Anita Bonds",
+    "Jack Evans",
+    "David Catania",
+    "Kenyan McDuffie",
+    "Tommy Wells",
+    "Phil Mendelson"
+  ],
+  "vote_data": {
+    "friendly": false,
+    "roll_call": true,
+    "Yvette Alexander": "Y",
+    "Marion Barry": "Y",
+    "Anita Bonds": "N",
+    "Muriel Bowser": "Y",
+    "David Catania": "Y",
+    "Mary Cheh": "Y",
+    "Jack Evans": "N",
+    "Jim Graham": "Y",
+    "David Grosso": "N",
+    "Kenyan McDuffie": "N",
+    "Phil Mendelson": "N",
+    "Vincent Orange": "N",
+    "Tommy Wells": "N"
+  },
+  "passed": "false"
+}

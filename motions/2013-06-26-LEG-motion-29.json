@@ -1,0 +1,37 @@
+{
+  "date": "2013-06-26",
+  "meeting": "Legislative Meeting",
+  "motion_number": "29",
+  "measure": {
+    "measure_type": "Bill",
+    "measure_number": "20-337",
+    "short_title": "Fiscal Year 2014 Budget Support Emergency Act of 2013"
+  },
+  "motion": {
+    "movant": "Phil Mendelson",
+    "motion_description": "Main",
+    "required_threshold": 7
+  },
+  "description": "Main Motion on Fiscal Year 2014 Budget Support Emergency Act of 2013",
+  "discussion": [
+    "Phil Mendelson"
+  ],
+  "vote_data": {
+    "friendly": false,
+    "roll_call": false,
+    "Yvette Alexander": "Y",
+    "Marion Barry": "Y",
+    "Anita Bonds": "Y",
+    "Muriel Bowser": "Y",
+    "David Catania": "N",
+    "Mary Cheh": "Y",
+    "Jack Evans": "Y",
+    "Jim Graham": "Y",
+    "David Grosso": "Y",
+    "Kenyan McDuffie": "Y",
+    "Phil Mendelson": "Y",
+    "Vincent Orange": "Y",
+    "Tommy Wells": "Y"
+  },
+  "passed": "true"
+}

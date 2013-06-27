@@ -1,0 +1,47 @@
+{
+  "date": "2013-06-26",
+  "meeting": "Legislative Meeting",
+  "motion_number": "22",
+  "measure": {
+    "measure_type": "Bill",
+    "measure_number": "20-62",
+    "short_title": "Large Retailer Accountability Act of 2013"
+  },
+  "motion": {
+    "movant": "Vincent Orange",
+    "motion_description": "Main",
+    "required_threshold": 7
+  },
+  "description": "Main Motion on Large Retailer Accountability Act of 2013",
+  "discussion": [
+    "Vincent Orange",
+    "Marion Barry",
+    "Mary Cheh",
+    "Yvette Alexander",
+    "Jim Graham",
+    "Muriel Bowser",
+    "David Catania",
+    "Tommy Wells",
+    "Jack Evans",
+    "Vincent Orange",
+    "Phil Mendelson"
+  ],
+  "vote_data": {
+    "friendly": false,
+    "roll_call": true,
+    "Yvette Alexander": "N",
+    "Marion Barry": "Y",
+    "Anita Bonds": "Y",
+    "Muriel Bowser": "N",
+    "David Catania": "N",
+    "Mary Cheh": "N",
+    "Jack Evans": "Y",
+    "Jim Graham": "Y",
+    "David Grosso": "Y",
+    "Kenyan McDuffie": "Y",
+    "Phil Mendelson": "Y",
+    "Vincent Orange": "Y",
+    "Tommy Wells": "N"
+  },
+  "passed": "true"
+}

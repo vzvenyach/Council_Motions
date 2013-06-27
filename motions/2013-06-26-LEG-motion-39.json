@@ -1,0 +1,37 @@
+{
+  "date": "2013-06-26",
+  "meeting": "Legislative Meeting",
+  "motion_number": "39",
+  "measure": {
+    "measure_type": "Resolution",
+    "measure_number": "20-281",
+    "short_title": "Contract No. DCHT-2012-C-0025 Approval and Payment Authorization Emergency Declaration Resolution of 2013"
+  },
+  "motion": {
+    "movant": "Yvette Alexander",
+    "motion_description": "Main",
+    "required_threshold": 9
+  },
+  "description": "Main Motion on Contract No. DCHT-2012-C-0025 Approval and Payment Authorization Emergency Declaration Resolution of 2013",
+  "discussion": [
+    "Yvette Alexander"
+  ],
+  "vote_data": {
+    "friendly": false,
+    "roll_call": false,
+    "Yvette Alexander": "Y",
+    "Marion Barry": "Y",
+    "Anita Bonds": "Y",
+    "Muriel Bowser": "Y",
+    "David Catania": "Y",
+    "Mary Cheh": "Y",
+    "Jack Evans": "Y",
+    "Jim Graham": "Y",
+    "David Grosso": "Y",
+    "Kenyan McDuffie": "Y",
+    "Phil Mendelson": "Y",
+    "Vincent Orange": "Y",
+    "Tommy Wells": "Y"
+  },
+  "passed": "true"
+}

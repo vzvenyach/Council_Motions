@@ -1,0 +1,37 @@
+{
+  "date": "2013-06-26",
+  "meeting": "Legislative Meeting",
+  "motion_number": "8",
+  "measure": {
+    "measure_type": "Bill",
+    "measure_number": "20-199",
+    "short_title": "Fiscal Year 2014 Budget Support Act of 2013"
+  },
+  "motion": {
+    "movant": "Jack Evans",
+    "motion_description": "Close Debate",
+    "required_threshold": 9
+  },
+  "description": "Close Debate on Catania Amendment",
+  "discussion": [
+    "Jack Evans"
+  ],
+  "vote_data": {
+    "friendly": false,
+    "roll_call": true,
+    "Yvette Alexander": "N",
+    "Marion Barry": "N",
+    "Anita Bonds": "Y",
+    "Muriel Bowser": "N",
+    "David Catania": "N",
+    "Mary Cheh": "N",
+    "Jack Evans": "Y",
+    "Jim Graham": "Y",
+    "David Grosso": "N",
+    "Kenyan McDuffie": "Y",
+    "Phil Mendelson": "Y",
+    "Vincent Orange": "Y",
+    "Tommy Wells": "Y"
+  },
+  "passed": "false"
+}
