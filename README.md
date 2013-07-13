@@ -13,3 +13,8 @@ A few usage notes: (1) I am not recording anything on the consent agenda; (2) I 
 
 Please let me know if you have any comments or suggestions for improvement.
 Thanks!
+
+#Update (2013-07-12)
+I am also planning on loading the motions initially into CSV form and then converting them into JSON. There's a slightly different schema with the 2013-07-10 meeting and the meetings that proceed, but the data fields are the same. If anyone wants to do a pull request to clean up the old data, I'd appreciate it. In the meantime, I'm going to proceed with the new approach.
+
+To convert the CSV to JSON, I'm using http://www.cparker15.com/code/utilities/csv-to-json/ and then doing a bit of additional "cleaning" from there.
