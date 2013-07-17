@@ -1,13 +1,22 @@
+<style type="text/css">
+	.TRUE {color:green}
+	.FALSE {color:red}
+	.WITHDRAWN {text-decoration:line-through}
+	.TABLED {color:red; text-decoration:line-through}
+</style>
+
 <h1 id="hello-world">Hello World</h1>
 <p>This is going to be a simple site for using the Council Motions data.</p>
 <p>Enough chat...</p>
 <h1 id="example">Example</h1>
-<p>This is a list of all of the motions from the July 2013 meeting, with amendments linked: <div id="motions"> </div>.</p>
+<p>This is a list of all of the motions from the July 2013 meeting, with measures that passed in green,  measures that failed in red, and withdrawn measures stricken, and with amendments linked: <div id="motions"> </div>.</p>
 
 <!--
 'KNOWN BUGS:
 1.For measures without bill numbers, there's a weird comma problem
-2.For amendments > 10, there is a leading zero problem.
+
+'FIXED BUGS
+1.For amendments > 10, there is a leading zero problem.
 -->
 
 <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
@@ -16,12 +25,19 @@
   $.getJSON('motions/2013-07-10-Leg-motions.json', function(data) {
         var output="<ul>";
 	var j = 1;
-        for (var i in data.motions) {
-          if (data.motions[i].motion_description == "Amend") {
-            output+="<li><a href=\"amendments/2013-07-10 LEG Amendment 0" + j + ".pdf\":>" + data.motions[i].measure_type + " " + data.motions[i].measure_number + ", " + data.motions[i].short_title + ": " + data.motions[i].movant + "</a></li>";
+	    for (var i in data.motions) {
+
+		//Fixes the leading zero problem
+		if (j < 10) {
+			j0 = "0" + j;
+		}
+		else {j0=j}
+        
+		if (data.motions[i].motion_description == "Amend") {
+            output+="<li><div class=\"" + data.motions[i].passed + "\"><a href=\"amendments/2013-07-10 LEG Amendment " + j0 + ".pdf\":>" + data.motions[i].measure_type + " " + data.motions[i].measure_number + ", " + data.motions[i].short_title + ": " + data.motions[i].movant + "</a></li>";
 	    j++;
         } else {
-		output+="<li>" + data.motions[i].measure_type + " " + data.motions[i].measure_number + ", " + data.motions[i].short_title + ": " + data.motions[i].movant + "</li>";
+		output+="<li><div class=\"" + data.motions[i].passed + "\">" + data.motions[i].measure_type + " " + data.motions[i].measure_number + ", " + data.motions[i].short_title + ": " + data.motions[i].movant + "</li>";
 	}}
 
         output+="</ul>";
