@@ -9,13 +9,13 @@
     
 	<item>
         <title>July 10, 2013</title>
-        <link>http://vzvenyach.github.io/Council_Motions/2013-07-10-Leg-motions.json</link>
+        <link>http://vzvenyach.github.io/Council_Motions/motions/2013-07-10-Leg-motions.json</link>
         <description>This is a test of RSS features.</description>
     </item>
     
 	<item>
     <title>June 26, 2013</title>
-    <link>http://vzvenyach.github.io/Council_Motions/2013-06-26-LEG-motion-01.json</link>
+    <link>http://vzvenyach.github.io/Council_Motions/motions/2013-06-26-LEG-motion-01.json</link>
     <description>This is also a test of RSS features.</description>
 	</item>
 </channel>
