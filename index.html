@@ -1,15 +1,42 @@
+<html>
+<head>
+<meta charset="UTF-8">
 <style type="text/css">
 	.TRUE {color:green}
 	.FALSE {color:red}
 	.WITHDRAWN {text-decoration:line-through}
 	.TABLED {color:red; text-decoration:line-through}
 </style>
+<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script>
 
+  $.getJSON('motions.json', function(data) {
+        var output="<ul>";
+	var j = 1;
+	    for (var i in data) {
+
+		//Fixes the leading zero problem
+		if (j < 10) {
+			j0 = "0" + j;
+		}
+		else {j0=j}
+        
+		if (data[i].motion_description == "Amend") {
+//            output+="<li><div class=\"" + data[i].passed + "\"><a href=\"amendments/2013-09-17 LEG Amendment " + j0 + ".pdf\":>" + data[i].measure_type + " " + data[i].measure_number + ", " + data[i].short_title + ": " + data[i].movant + "</a></li>";
+				output+="<li><div class=\"" + data[i].passed + "\">" + data[i].date + " (" + data[i].motion_number + ")--" + data[i].measure_type + " " + data[i].measure_number + ", " + data[i].short_title + ": " + data[i].description + " (" + data[i].movant + ")</li>";
+	    j++;
+        } else {
+		output+="<li><div class=\"" + data[i].passed + "\">" + data[i].date + " (" + data[i].motion_number + ")--" + data[i].measure_type + " " + data[i].measure_number + ", " + data[i].short_title + ": " + data[i].description + " (" + data[i].movant + ")</li>";
+	}};
+    output+="</ul>";
+    document.getElementById("motions").innerHTML=output;
+  });
+</script>
+</head>
 <h1 id="hello-world">Hello World</h1>
-<p>This is going to be a simple site for using the Council Motions data.</p>
-<p>Enough chat...</p>
-<h1 id="example">Example</h1>
-<p>This is a list of all of the motions from the September 17, 2013 meeting, with measures that passed in green,  measures that failed in red, and withdrawn measures stricken, and with amendments linked: <div id="motions"> </div>.</p>
+<p>This is a simple site using the unofficial Council Motions data. For bulk data download, <a href="motions.json" target="_blank">click here</a></p>
+<h1 id="list">List</h1>
+<p>This is a list of all of the motions from the July 10, 2013 meeting to date, with measures that passed in green,  measures that failed in red, and withdrawn measures stricken, and with amendments linked: <div id="motions"> </div></p>
 
 <!--
 'KNOWN BUGS:
@@ -19,28 +46,4 @@
 1.For amendments > 10, there is a leading zero problem.
 -->
 
-<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
-<script>
-
-  $.getJSON('motions/2013-09-17-Leg-motions.json', function(data) {
-        var output="<ul>";
-	var j = 1;
-	    for (var i in data.motions) {
-
-		//Fixes the leading zero problem
-		if (j < 10) {
-			j0 = "0" + j;
-		}
-		else {j0=j}
-        
-		if (data.motions[i].motion_description == "Amend") {
-            output+="<li><div class=\"" + data.motions[i].passed + "\"><a href=\"amendments/2013-09-17 LEG Amendment " + j0 + ".pdf\":>" + data.motions[i].measure_type + " " + data.motions[i].measure_number + ", " + data.motions[i].short_title + ": " + data.motions[i].movant + "</a></li>";
-	    j++;
-        } else {
-		output+="<li><div class=\"" + data.motions[i].passed + "\">" + data.motions[i].measure_type + " " + data.motions[i].measure_number + ", " + data.motions[i].short_title + ": " + data.motions[i].movant + "</li>";
-	}}
-
-        output+="</ul>";
-        document.getElementById("motions").innerHTML=output;
-  });
-</script>
+</html>
