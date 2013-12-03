@@ -1,0 +1,12 @@
+
+* Measure
+  * Main Motion
+  * Subsidiary Motion
+  * Incidental Motion
+ 
+Show Current Motion
+Create New Motion
+Create New Incidental Motion
+Create New Subsidiary Motion
+Show Previous Motions
+Show Next Agenda Item
